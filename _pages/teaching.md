@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Both during my studies at TU Munich and KTH Stockholm I had the privilege to work as teaching assistant (Tutor/Övningsassistent) for introductory courses in Linear Algebra, Analysis and Numerics. Since I really enjoy communicating mathematics to non-mathematicians, I was mainly involved for courses targeted towards programs with other majors.
+Both during my studies at TU Munich and KTH Stockholm I had the privilege to work as teaching assistant (Tutor/Övningsassistent) for introductory courses in Linear Algebra, Analysis and Numerics. Since I really enjoy communicating mathematics to non-mathematicians, I was mainly involved in courses targeted towards programs with other majors.
 
 ## KTH Royal Institute of Technology
 - SF1547: Numerical Analysis for Computer Science (Spring 2022)
