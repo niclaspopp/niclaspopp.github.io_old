@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Niclas Popp"
 title_separator          : "-"
 name                     : &name "Niclas Popp"
-description              : &description "International Master Student in Applied Mathematics"
+description              : &description "International Master Student in Mathematics and Physics"
 url                      : https://niclaspopp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "niclaspopp/niclaspopp.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Niclas Popp"
   avatar           : "portrait.JPG"
-  bio              : "Master Student in Applied Mathematics"
+  bio              : "International Master Student in Mathematics and Physics"
   location         :
   employer         :
   pubmed           :
