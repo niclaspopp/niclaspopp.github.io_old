@@ -8,23 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Welcome! I am an international Master student in Mathematics and Physics pursuing a Double Degree between the Technical University of Munich and KTH Royal Institute of Technology. Currently I am also a student research assistent working on the analysis of single-cell RNA sequencing data using tools from modern mathematics and deep learning in the lab of Antonio Scialdone at the Helmhotz Centre for Environment and Health in Munich. Prior to my Master studies, I completed my Bachelor degree with a major in Mathematics and a minor in Physics at the Technical University of Munich including an exchange term at the National University of Singapore. In addition to my academic background, I also possess working experience in industry which I could gather during a period of 2 years as a working student at Robert Bosch GmbH with a field of activity in Data Science for logistics.
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+Since I expect to complete my studies in fall 2023 I am actively looking for a PhD position with a foucs on learning systems. 
