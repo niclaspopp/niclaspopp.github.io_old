@@ -15,7 +15,7 @@ title: "Software"
 
 In the course of my Bachelor Thesis in the [lab ob Antonio Scialdone](https://www.helmholtz-munich.de/ies/research/physics-and-data-based-modelling-of-cellular-decision-making/research/index.html) I developed a Julia package that can be used for mulitvariate, interaction preserving discretization. It can be found [here](https://github.com/niclaspopp/MultivariateDiscretization.jl)
 
-# MultivariateDiscretization.jl
+# A Parallel Implementation of the Spectral Clustering Algorithm
 
 I implemented a parallel version of the Spectral Clustering Algorithm in C using the Message Passing Interface (MPI). The code was tested both with dense and sparse graphs on Swedens largest supercomputer Dardel. I'd like to Niclas Jansson at KTH for allowing me to use these resources for this project! The code can be found [here](https://github.com/niclaspopp/SpectralClusteringMPI).
 
