@@ -13,7 +13,7 @@ title: "Software"
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://github.com/niclaspopp/MultivariateDiscretization.jl/blob/master/MultivariateDiscretization/Doc%20v0.1.0.ipynb)
 <br/>
 
-In the course of my Bachelor Thesis in the [lab ob Antonio Scialdone](https://www.helmholtz-munich.de/ies/research/physics-and-data-based-modelling-of-cellular-decision-making/research/index.html) I developed a Julia package that can be used for mulitvariate, interaction preserving discretization. It can be found [here](https://github.com/niclaspopp/MultivariateDiscretization.jl)
+In the course of my Bachelor Thesis in the [lab ob Antonio Scialdone](https://www.helmholtz-munich.de/ies/research/physics-and-data-based-modelling-of-cellular-decision-making/research/index.html) I developed a Julia package that can be used for mulitvariate, interaction preserving discretization. The repository can be found [here](https://github.com/niclaspopp/MultivariateDiscretization.jl).
 
 # A Parallel Implementation of the Spectral Clustering Algorithm
 
