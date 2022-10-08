@@ -2,7 +2,7 @@
 title: "A Parallel Implementation of the Spectral Clustering Algorithm"
 collection: publications
 permalink: /publication/BAthesis
-date: 2020-12-15
+date: 2022-05-15
 venue: ''
 paperurl: ''
 link: ''
