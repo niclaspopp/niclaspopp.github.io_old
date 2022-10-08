@@ -1,18 +1,17 @@
 ---
-layout: archive
+permalink: /teaching/
 title: "Projects"
-permalink: /publications/
-author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+## Structural benchmarking of algorithms for gene regulatory network inference from single-cell transcriptomic data
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Gene regulatory network inference from scRNA-seq data by incorporating prior knowledge with graph autoencoders
 
-<sup>*</sup> Equal authorship
+## Interaction Preserving Discretization Methods and Applications in Single-Cell RNA Sequencing Data Analysis
+
+## A Parallel Implementation of the Spectral Clustering Algorithm
+
+## Exploring Neural Ordinary Differential Equations
+
+## Facial Expression Recognition Using Topological Data Analysis
