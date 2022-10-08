@@ -1,5 +1,5 @@
 ---
-permalink: /teaching/
+permalink: /publications/
 title: "Projects"
 ---
 
